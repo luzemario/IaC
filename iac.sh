@@ -1,6 +1,5 @@
 #!/bin/bash
 
-sudo su
 cd /
 
 echo "Configurando diretórios..."
