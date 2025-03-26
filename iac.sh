@@ -4,10 +4,7 @@ cd /
 
 echo "Configurando diretórios..."
 
-mkdir publico
-mkdir adm
-mkdir ven
-mkdir sec
+mkdir {publico,adm,ven,sec}
 
 echo "Adicionando grupos..."
 
